@@ -71,13 +71,15 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
 
 ## Skills
 
-- **Cybersecurity**
-- **Workday** 
-- **PeopleSoft** 
-- **Computer Hardware**
-- **IT Systems Management**
-- **Market Analysis**
-
-## Languages
-
-- **Chinese (Cantonese)**
+- **Communication**
+- **Data Analysis**
+- **Design Thinking**
+- **Problem Solving**
+- **Python**
+- **Research**
+- **Security Advisory**
+- **Security Engineering**
+- **Software Development**
+- **Solution Architecture**
+- **Strategy**
+- **Vulnerability Triage**
