@@ -58,16 +58,29 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
 ## Licenses & Certifications
 
 - **AIG - Shields Up: Cybersecurity Job Simulation** | Forage | *Issued August 2024*  
-  Credential ID: e6aRjB6q22x7p79mt
+  ![Shields Up Badge](https://media.licdn.com/dms/image/v2/D560BAQEhb_j1_sDRJQ/company-logo_100_100/company-logo_100_100/0/1720817595519/theforage_logo?e=1732752000&v=beta&t=FBl_SbzanmZwYg0bsnd3bDWHFOe3QJ3OP0-vtcwGWEk)  
+  [Show credential](https://www.credly.com/badges/e6aRjB6q22x7p79mt)
 
 - **Computer Hardware Basics** | Cisco | *Issued August 2024*  
-  Credential ID: [Credential Link]
+  ![Computer Hardware Badge](https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs)  
+  [Show credential](https://www.credly.com/badges/your-credential-id)
 
 - **Introduction to Cybersecurity** | Cisco | *Issued August 2024*  
-  Credential ID: [Credential Link]
+  ![Cybersecurity Badge](https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs)  
+  [Show credential](https://www.credly.com/badges/your-credential-id)
 
 - **Introduction to Data Science** | Cisco | *Issued August 2024*  
-  Credential ID: [Credential Link]
+  ![Data Science Badge](https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs)  
+  [Show credential](https://www.credly.com/badges/your-credential-id)
+
+- **Introduction to IoT** | Cisco | *Issued August 2024*  
+  ![IoT Badge](https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs)  
+  [Show credential](https://www.credly.com/badges/your-credential-id)
+
+- **Workday US Payroll** | Workday | *Issued May 2019*  
+  ![Workday Badge](https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs)  
+  [Show credential](https://www.credly.com/badges/your-credential-id)
+
 
 ## Skills
 
