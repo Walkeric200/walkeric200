@@ -5,7 +5,7 @@
 
 **University of Phoenix**  
 Greater Phoenix Area  
-[Contact Info]
+**Email:** walkeric@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/eric-walker/) | [GitHub](https://github.com/Walkeric200)
 
