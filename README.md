@@ -65,25 +65,25 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
 
 <div>
   <h3>Computer Hardware Basics</h3>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs" alt="Cisco Badge" width="50" height="50">
+  <img src="https://i.ibb.co/nj1bXbm/cisco-thumbnail-image-hardware-basics.jpg" alt="Cisco Badge" width="50" height="50">
   <p><strong>Issued August 2024</strong></p>
 </div>
 
 <div>
   <h3>Introduction to Cybersecurity</h3>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs" alt="Cisco Badge" width="50" height="50">
+  <img src="https://i.ibb.co/sw8YmRb/Intro-to-cybersecurity-image.png" alt="Cisco Badge" width="50" height="50">
   <p><strong>Issued August 2024</strong></p>
 </div>
 
 <div>
   <h3>Introduction to Data Science</h3>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs" alt="Cisco Badge" width="50" height="50">
+  <img src="https://i.ibb.co/qMNrNdb/Intro-to-data-science-image.png" alt="Cisco Badge" width="50" height="50">
   <p><strong>Issued August 2024</strong></p>
 </div>
 
 <div>
   <h3>Introduction to IoT</h3>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQGeZfQf3SIu_Q/company-logo_100_100/company-logo_100_100/0/1722447469246/cisco_logo?e=1732752000&v=beta&t=_45riGUWnlqR1Fcq8B_gjJP1h0Qxw60S-z13L3njnPs" alt="Cisco Badge" width="50" height="50">
+  <img src="https://i.ibb.co/cyW6Vn6/Intro-to-IOT-image.png" alt="Cisco Badge" width="50" height="50">
   <p><strong>Issued August 2024</strong></p>
 </div>
 
