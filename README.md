@@ -22,38 +22,38 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
 - **Adept at Problem-Solving and Critical Thinking**
 - **Quick Learner with a Passion for Continuous Improvement**
 
-## Experience
+## Projects
 
-**Supply Chain Receiver**  
-*Walmart* | Full-time  
-*April 2024 – Present* | *5 months*  
-- Hands-on experience in supply chain management, ensuring smooth operations and efficient handling of goods.
+- **AIG Shields Up: Cybersecurity Virtual Experience Program on Forage**  
+  August 2024  
+  Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+  
+- **Research and Analysis**  
+  Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+  
+- **Vulnerability Remediation Guidance**  
+  Drafted a clear and concise email to guide teams on vulnerability remediation.
+  
+- **Ethical Hacking Script**  
+  Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
 
-**Equities Options Trader**  
-*TradeWins, LLC* | Self-employed  
-*March 2022 – August 2024* | *2 years 6 months* | Remote  
-- Managed trading strategies and performed detailed market analysis to optimize investment outcomes.
+## Training
 
-**Workday Payroll Administrator**  
-*CACI International Inc* | Full-time  
-*February 2021 – March 2021* | *2 months*  
-- Administered payroll systems and processes, ensuring compliance and accuracy.
+**Cybersecurity Foundation Courses from Cisco:**
 
-**Workday Payroll Consultant**  
-*Collaborative Solutions, LLC* | Full-time  
-*March 2020 – December 2020* | *10 months* | Phoenix, Arizona Area  
-- Provided consultancy services for payroll system implementations, offering expert advice and solutions.
-
-**Workday Functional Senior Solutions Specialist**  
-*Deloitte Consulting*  
-*September 2018 – March 2020* | *1 year 7 months* | Phoenix, Arizona Area  
-- Specialized in functional solutions within the Workday ecosystem, supporting clients with tailored solutions.
+1. **Intro to Data Science** - Completed
+2. **Intro to Cyber Security** - Completed
+3. **Intro to IoT** - Completed
+4. **Computer Hardware Basics** - Completed
+5. **Python Essentials 1** - In Progress
+6. **Networking Basics**
+7. **Operating System Basics**
+8. **Linux Essentials**
 
 ## Education
 
 **Bachelor's Degree in Information Technology**  
 *University of Phoenix*  
-*2003 – 2007*
 
 ## Licenses & Certifications
 
@@ -85,6 +85,12 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
   <h3>Introduction to IoT</h3>
   <img src="https://i.ibb.co/cyW6Vn6/Intro-to-IOT-image.png" alt="Cisco Badge" width="50" height="50">
   <p><strong>Issued August 2024</strong></p>
+</div>
+
+<div>
+  <h3>ISC2-Certified in Cyber Security (CC)</h3>
+  <!-- <img src="https://i.ibb.co/cyW6Vn6/Intro-to-IOT-image.png" alt="Cisco Badge" width="50" height="50">
+  <p><strong>Issued August 2024</strong></p> -->
 </div>
 
 ## Skills
