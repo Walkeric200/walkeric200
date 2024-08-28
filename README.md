@@ -72,8 +72,8 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
 ## Skills
 
 - **Cybersecurity**
-- **Workday** (14 endorsements)
-- **PeopleSoft** (14 endorsements)
+- **Workday** 
+- **PeopleSoft** 
 - **Computer Hardware**
 - **IT Systems Management**
 - **Market Analysis**
