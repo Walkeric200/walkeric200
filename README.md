@@ -24,19 +24,32 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
 
 ## Projects
 
-- **AIG Shields Up: Cybersecurity Virtual Experience Program on Forage**  
-  August 2024  
-  Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+- **AIG Shields Up: Cybersecurity Virtual Experience Program on Forage** -August 2024
   
-- **Research and Analysis**  
-  Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+  - Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
   
-- **Vulnerability Remediation Guidance**  
-  Drafted a clear and concise email to guide teams on vulnerability remediation.
+  - Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
   
-- **Ethical Hacking Script**  
-  Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
+  - Drafted a clear and concise email to guide teams on vulnerability remediation.
+  
+  - Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
 
+- **Datacom Cybersecurity Job Simulation on Forage** - September 2024
+
+  - Completed a simulation focussed on how Datacom's cybersecurity team helps protect it's clients.
+  
+  - Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture.
+  
+  - Conducted a comprehensive risk assessment.
+
+- **MasterCard Cybersecurity virtual Experience Program on Forage** - September 2024
+
+  - Completed a simulation where I served as an analyst on Mastercard's Security Awareness Team.
+  
+  - Helped Identify and report security threats such as phishing. 
+  
+  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams. 
+    
 ## Training
 
 **Cybersecurity Foundation Courses from Cisco:**
