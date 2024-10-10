@@ -7,7 +7,7 @@
 Greater Phoenix Area  
 **Email:** walkeric@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/eric-walker/) | [GitHub](https://github.com/Walkeric200)
+[LinkedIn](https://www.linkedin.com/in/eric-w-8b51224) | [GitHub](https://github.com/Walkeric200)
 
 ---
 
