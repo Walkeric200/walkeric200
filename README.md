@@ -24,16 +24,6 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
 
 ## Projects
 
-- **AIG Shields Up: Cybersecurity Virtual Experience Program on Forage** -August 2024
-  
-  - Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
-  
-  - Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
-  
-  - Drafted a clear and concise email to guide teams on vulnerability remediation.
-  
-  - Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
-
 - **Datacom Cybersecurity Job Simulation on Forage** - September 2024
 
   - Completed a simulation focussed on how Datacom's cybersecurity team helps protect it's clients.
@@ -48,7 +38,17 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
   
   - Helped Identify and report security threats such as phishing. 
   
-  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams. 
+  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
+ 
+- **AIG Shields Up: Cybersecurity Virtual Experience Program on Forage** -August 2024
+  
+  - Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+  
+  - Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+  
+  - Drafted a clear and concise email to guide teams on vulnerability remediation.
+  
+  - Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
     
 ## Training
 
