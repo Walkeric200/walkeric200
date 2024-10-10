@@ -59,8 +59,8 @@ I bring a diverse background in IT and a strong foundation in cybersecurity, bac
 3. **Intro to IoT** - Completed
 4. **Computer Hardware Basics** - Completed
 5. **Python Essentials 1** - In Progress
-6. **Networking Basics**
-7. **Operating System Basics**
+6. **Networking Basics** - Completed
+7. **Operating System Basics** - Completed
 8. **Linux Essentials**
 
 ## Education
